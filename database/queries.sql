@@ -1,0 +1,1 @@
+select * from economic_data
