@@ -132,8 +132,11 @@ Example visualizations include rolling averages to smooth trends and highlight e
 
 Based on the analysis of the GDP, unemployment rate, and CPI data between Trump's and Biden's presidencies, we observe the following:
 - **GDP**: Biden's term saw stronger initial GDP recovery due to post-pandemic stimulus, but growth slowed in 2022 as inflationary pressures and tighter monetary policies took effect. Trump's term had stable growth pre-COVID, but a sharp contraction during the pandemic.
-- **Unemployment Rate**: Both administrations oversaw historically low unemployment rates pre-pandemic (Trump) and post-pandemic recovery (Biden). Biden's term has featured a significant decline in unemployment as the economy rebounded.
+- **Unemployment Rate**: Both administrations oversaw historically low unemployment rates pre-pandemic (Trump) and post-pandemic recovery (Biden). Biden's term has featured a significant decline in unemployment as the economy rebounded. 
 - **CPI (Inflation)**: Trump's presidency experienced stable, low inflation, while Biden’s term has been marked by higher inflation due to various factors, though it began to ease by late 2023.
+-![img.png](img.png)
+-![img_1.png](img_1.png)
+-![img_2.png](img_2.png)
 
 Further economic analysis might involve forecasting future trends using statistical models such as **ARIMA** or **linear regression**.
 
